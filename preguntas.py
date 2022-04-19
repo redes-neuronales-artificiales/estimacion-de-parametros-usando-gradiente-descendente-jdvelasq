@@ -6,6 +6,7 @@ En este laboratio se estimarán los parámetros óptimos de un modelo de regresi
 polinomial de grado `n`.
 
 """
+print("hola mundo")
 
 
 def pregunta_01():
